@@ -1,0 +1,23 @@
+commit ace04f0e1d9e8e6655c56214cee7a0b2066f9c69
+Author: gomeznundo <gomeznundo@yahoo.es>
+Date:   Wed Aug 25 09:41:09 2021 +0200
+
+    modified .gitignore to include file2.txt
+
+commit 63e295b793a0ced9eb823ee67b36c0e0f8164c5a
+Author: gomeznundo <gomeznundo@yahoo.es>
+Date:   Wed Aug 25 09:38:28 2021 +0200
+
+    added .gitignore
+
+commit 9001771735f300836f678e7ee31d9dbbea369d22
+Author: gomeznundo <gomeznundo@yahoo.es>
+Date:   Wed Aug 25 09:13:49 2021 +0200
+
+    added two files
+
+commit d3635b60b28418d91135ab1e08b93ffa1f1456c9
+Author: gomeznundo <gomeznundo@yahoo.es>
+Date:   Wed Aug 25 09:04:22 2021 +0200
+
+    added readme.txt
